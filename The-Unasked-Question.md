@@ -14,7 +14,7 @@ Description of process. In your GitHub folder, you may add attachments to additi
 
 ## Deliverable
 
-If using folders, this will be a separate attachment (delete this section). If using linkes, Attachment, link, or other representation of final product. If using links, you may want to double-check that hyperlinks are formatted as anticipated during the GitHub export. Add a caption or other notes as necessary.
+[Link to Document](https://docs.google.com/document/d/1RBnudRKSraYWbbusDHSJzjwP-gjvgBRWTS7dMd-Oc-Y/edit?usp=sharing)
 
 ## Reflection
 
