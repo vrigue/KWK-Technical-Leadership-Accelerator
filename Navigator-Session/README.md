@@ -20,7 +20,7 @@ Description of process. In your GitHub folder, you may add attachments to additi
 
 _**Think back to a time when you corrected someone's technical language or a time when someone corrected yours. What was different about the corrections that built you up versus the ones that shut you down?**_
 
-The corrections that shut me down were the ones that were aggressive and shut me down, making me feel inadequate or small. The corrections that built me up were kind and constructive, while also being engaging and geared towards my growth.
+The corrections that shut me down were the ones that were aggressive and did not let me use my voice, making me feel inadequate or small. The corrections that built me up were kind and constructive, while also being engaging and geared towards my growth.
 
 _**Before the session, you predicted that Navigator would be the harder role. After your session, was that true? What was harder (or easier) than you'd expected?**_
 
