@@ -24,15 +24,15 @@ The corrections that shut me down were the ones that were aggressive and did not
 
 _**Before the session, you predicted that Navigator would be the harder role. After your session, was that true? What was harder (or easier) than you'd expected?**_
 
-After the session, I noticed I had more dificulty being the Driver than the Navigator. It was harder than I expected to be the Driver since you have to balance executing both your Navigator's thoughts and ideas on top of your own. 
+After the session, I noticed I had more difficulty being the Driver than the Navigator. It was harder than I expected to be the Driver since you have to balance executing both your Navigator's thoughts and ideas on top of your own. 
 
 _**Before the session, you flagged one anti-pattern you were most at risk of falling into (Drifting Apart, Micro-Management, Impatience, Keyboard Hogging). Did it show up? If yes, did you catch yourself? If no, did a different one show up instead?**_
 
-I flagged that Drifting Apart was the anti-pattern I was most at risk of falling into, but it did not show up during my session. Instead, Impatience showed up, but I was able to catch myself and maintain patience towards my partner.
+I flagged that Drifting Apart was the anti-pattern I was most at risk of falling into, but it did not show up during my session. Instead, Impatience showed up, but I was able to catch myself and remain patient with my partner.
 
 _**You named one strategy for the 5-second rule moments. Did it work? What actually happened the first time you noticed your Driver making a mistake?**_
 
-The strategy did work since I found myself noticing when I was about to interrupt my partner, and instead I forced myself to pause and wait a couple seconds before jumping in. This is the strategy I practiced the first time I noticed my Driver making a mistake.
+The strategy did work since I found myself noticing when I was about to interrupt my partner, and instead, I forced myself to pause and wait a couple of seconds before jumping in. This is the strategy I practiced the first time I noticed my Driver making a mistake.
 
 _**One thing about your partner you want to remember: what they did well, what they struggled with, or how they reacted to you.**_
 
