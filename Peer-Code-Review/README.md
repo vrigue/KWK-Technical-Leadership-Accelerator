@@ -6,7 +6,7 @@
 
 ## Task
 
-Submit one piece of your own code that lives in GitHub. Then, propose new code as a GitHub pull request and send your partner the GitHub PR link. Your assigned partner will leave a formal written review using the N/W/WT framework. You'll do the same for their code.
+Submit one piece of your own code that lives in GitHub. Then, propose new code as a GitHub pull request and send your partner the GitHub PR link. Your assigned partner will leave a formal written review. You'll do the same for their code.
 
 ## Process
 
@@ -26,4 +26,4 @@ Description of process. In your GitHub folder, you may add attachments to additi
 
 _**What was the hardest feedback to write? What would you change if you did it again?**_
 
-The hardest feeback to write were the comments I left on updating CSS selectors to have more expressive names. It was difficult to write these comments since I wanted to articulate my thoughts constructively without coming off as too nitpicky. If I were to provide feedback again, I would change my approach by taking additional time to understand the code as well as the codebase it's from before leaving any comments.
+The hardest feedback to write was the comments I left on updating CSS selectors to have more expressive names. It was difficult to write these comments since I wanted to articulate my thoughts constructively without coming off as too nitpicky. If I were to provide feedback again, I would change my approach by taking additional time to understand the code as well as the codebase it's from before leaving any comments.
