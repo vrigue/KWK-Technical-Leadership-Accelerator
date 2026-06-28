@@ -16,11 +16,11 @@ Description of process. In your GitHub folder, you may add attachments to additi
 
 [Link to GitHub PR](https://github.com/Manya6/accessibilty-screen/pull/1/changes)
 
-![The first comment I left on the PR.](Peer-Code-Review/COMMENT-1.png)
+![The first comment I left on the PR.](COMMENT-1.png)
 
-![The second comment I left on the PR.](Peer-Code-Review/COMMENT-2.png)
+![The second comment I left on the PR.](COMMENT-2.png)
 
-![The third comment I left on the PR.](Peer-Code-Review/COMMENT-3.png)
+![The third comment I left on the PR.](COMMENT-3.png)
 
 ## Reflection
 
