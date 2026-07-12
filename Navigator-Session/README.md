@@ -6,7 +6,7 @@
 
 ## Task
 
-Description of task.
+Run a 30-minute pair programming session with another partcipant from this cohort. For the first 15 minutes one of you will be the Navigator and then you’ll switch roles for the second 15 minutes.
 
 ## Process
 

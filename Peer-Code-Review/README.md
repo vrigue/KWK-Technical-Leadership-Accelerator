@@ -24,6 +24,10 @@ Description of process. In your GitHub folder, you may add attachments to additi
 
 ## Reflection
 
+_**Think about a time when you offered feedback on someone's work (in a class, on a team, in a project) and it landed worse than you intended. What did you say? What did you wish you'd said instead? Now think about who you were giving feedback to. Does the answer change depending on who that person was?**_
+
+There was a time in a group project for a CS course that I offered feedback that landed worse than I intended because I kept using "you" phrases that made my comments about my group member instead of the code itself.  I wish I had rephrased my feedback to be about my observations and the code instead of targeted towards her. I think the answer does change because this group member also happened to be someone I was not close with outside of class.
+
 _**What was the hardest feedback to write? What would you change if you did it again?**_
 
 The hardest feeback to write were the comments I left on updating CSS selectors to have more expressive names. It was difficult to write these comments since I wanted to articulate my thoughts constructively without coming off as too nitpicky. If I were to provide feedback again, I would change my approach by taking additional time to understand the code as well as the codebase it's from before leaving any comments.
