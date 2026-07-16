@@ -1,6 +1,6 @@
 # Technical Leadership Portfolio
 
-*Technical Leadership Accelerator, Kode With Klossy 2026*
+*Vrielle Guevarra – Technical Leadership Accelerator, Kode With Klossy 2026*
 
 ### Why Technical Leadership?
 
