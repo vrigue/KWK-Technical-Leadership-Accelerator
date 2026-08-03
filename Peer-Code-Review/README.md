@@ -1,4 +1,4 @@
-# M3: Peer Code Review
+# Peer Code Review
 
 *Formally review code submitted by a peer.*
 
@@ -6,15 +6,17 @@
 
 ## Task
 
-Submit one piece of your own code that lives in GitHub. Then, propose new code as a GitHub pull request and send your partner the GitHub PR link. Your assigned partner will leave a formal written review. You'll do the same for their code.
+> Submit one piece of your own code that lives in GitHub. Then, propose new code as a GitHub pull request (PR) and send your partner – another fellow in this Technical Leadership Accelerator cohort – the GitHub PR link. Your partner will leave a formal written review. You'll do the same for their code.
 
 ## Process
 
-Description of process. In your GitHub folder, you may add attachments to additional documents or resources as necessary. If using links, you may want to double-check that hyperlinks are formatted as anticipated during the GitHub export.
+I practiced the complete GitHub pull request workflow: creating a new repository, making a new branch and pushing code to it, and opening a pull request to merge my branch into `main`. I used code from an old assignment as a part of my Data Structures and Algorithms course. I sent my partner the PR link for them to leave their formal written review. Then, I practiced using GitHub's PR interface, and conducted my own formal review of my partner's code using the PR link I received from them. My review comprised of inline comments left directly on specific lines of code, and a summary addressing what's working well, what I would prioritize, and what I'd like to know more about in their code. 
+
+I structured my comments around the Noticed / Wondered / Would-Try (N/W/WT) framework, which is adapted from Annie Fetter's Notice and Wonder practice that is widely used by the National Council of Teacher of Mathematics.  The Noticed and Wondered components focus on naming what you _notice_ (observations without judgement) and what you _wonder_ about the code to prevent the author from becoming defensive or jumping to conclusions. The Would-Try piece focuses on proposing a concrete path forward that is a suggestion to the author rather than a enforced command, preserving their ownership over their code. This framework is also very similar to software engineer Philip Hauer's OIR Rule (Observation, Impact, Request), whose work is one of the most cited practitioner references on the human dynamics of code review.
 
 ## Deliverable
 
-[Link to GitHub PR](https://github.com/Manya6/accessibilty-screen/pull/1/changes)
+[Link to GitHub PR](https://github.com/Manya6/accessibilty-screen/pull/1)
 
 ![The first comment I left on the PR.](COMMENT-1.png)
 
@@ -23,10 +25,6 @@ Description of process. In your GitHub folder, you may add attachments to additi
 ![The third comment I left on the PR.](COMMENT-3.png)
 
 ## Reflection
-
-_**Think about a time when you offered feedback on someone's work (in a class, on a team, in a project) and it landed worse than you intended. What did you say? What did you wish you'd said instead? Now think about who you were giving feedback to. Does the answer change depending on who that person was?**_
-
-There was a time in a group project for a CS course that I offered feedback that landed worse than I intended because I kept using "you" phrases that made my comments about my group member instead of the code itself.  I wish I had rephrased my feedback to be about my observations and the code instead of targeted towards her. I think the answer does change because this group member also happened to be someone I was not close with outside of class.
 
 _**What was the hardest feedback to write? What would you change if you did it again?**_
 
