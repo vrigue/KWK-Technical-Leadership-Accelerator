@@ -27,10 +27,10 @@ I wrote open diagnostic questions that would help Tia debug her code by promptin
 
 ## Reflection
 
-_What do you think the most likely response or outcome would have been?_
+_**What do you think the most likely response or outcome would have been?**_
 
 I think Tia would have noticed and responded with "The value of i is 4 when the second loop starts" after I asked my first question. Then, she likely would have responded with verbally tracing through the second loop, and my third question would have prompted the "aha" moment, forcing her to break down the parts of her `lambda` function itself. If necessary, questions 4-6 further hone in on the bug and guide her towards the underlying issue, especially question 6 where I asked if `i` is defined in the functions she's creating and appending.
 
-_Which question moved the person furthest? Where did you feel the pull to just hand over the answer? What would you do differently next time?_
+_**Which question moved the person furthest? Where did you feel the pull to just hand over the answer? What would you do differently next time?**_
 
 I think question 3 would move Tia the furthest because it asks Tia what she thinks is happening when she calls `append` with her `lambda` function, which guides her towards questioning whether what she thinks is happening corresponds to the code she wrote. I felt the most pull to just hand over the answer while thinking about and structuring questions 4-6 because from my perspective, it already felt obvious what the bug was after questions 1-3. However, that might not be the case for Tia, and any programmers I collaborate with in the future. Next time, I would write my questions with a bit more precision and make them more concise and digestible. 

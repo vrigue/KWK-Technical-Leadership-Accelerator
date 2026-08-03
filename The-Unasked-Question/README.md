@@ -10,11 +10,13 @@
 
 ## Process
 
-I created a Stakeholder Audit, which is a map of all the technical people and communities that are currently a part of my life. A technical community is any group of at least two or more people that discuss, work on, learn, and/or build technology together. I detailed the key technical people in each community, their goals and needs, and my relationship or power dynamic with each of them. Then, I chose one technical community I mapped in my Stakeholder Audit – Girls Who Code @ Columbia University – and developed an asset that helped the members within it. As a member of the Curriculum Committee at Girls Who Code, I have access to our existing resources scattered across Google Drive, old Slack messages, and email threads, and used them to build the asset. 
+I created a Stakeholder Audit, which is a map of all the technical people and communities that are currently a part of my life. A technical community is any group of at least two or more people that discuss, work on, learn, and/or build technology together. I detailed the key technical people in each community, their goals and needs, and my relationship or power dynamic with each of them. 
+
+Then, I chose one technical community I mapped in my Stakeholder Audit – Girls Who Code @ Columbia University – and developed an asset that helped the members within it. As a member of the Curriculum Committee at Girls Who Code, I have access to our existing resources scattered across Google Drive, old Slack messages, and email threads, and used them to build the asset. 
 
 ## Deliverable
 
-[Link to Document](https://docs.google.com/document/d/1RBnudRKSraYWbbusDHSJzjwP-gjvgBRWTS7dMd-Oc-Y/edit?usp=sharing)
+[Link to Document](https://docs.google.com/document/d/17pp8kFACeVMJ_esuwqFsEmR3-4UguCjfI1xxsopC9jI/edit?usp=sharing)
 
 ## Reflection
 

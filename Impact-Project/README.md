@@ -1,4 +1,4 @@
-# Impact Project: [Module 0: GitHub & Version Control]
+# Impact Project: Module 0: GitHub & Version Control
 
 *Create a module that deepens the TLA program curriculum for future cohorts*
 
