@@ -18,7 +18,7 @@ Then, I chose one technical community I mapped in my Stakeholder Audit – Girls
 
 [Link to Document](https://docs.google.com/document/d/17pp8kFACeVMJ_esuwqFsEmR3-4UguCjfI1xxsopC9jI/edit?usp=sharing)
 
-*NOTE: This is a copy of the asset without any of the actual links to Girls Who Code resources to maintain our organization's privacy.*
+*NOTE: This is a copy of the asset with the actual links to Girls Who Code resources and real students' information **removed** to maintain our organization's privacy.*
 
 ## Reflection
 
