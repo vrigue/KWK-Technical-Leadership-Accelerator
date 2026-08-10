@@ -1,6 +1,6 @@
 # Impact Project: Module 0: GitHub & Version Control
 
-*Create a module that deepens the TLA program curriculum for future cohorts*
+*Create a module that deepens the TLA program curriculum for future cohorts.*
 
 **Target Skills: Stakeholder Identification, Problem Solving, Resource Creation, Concise Summarization, Verbal Precision, Accessible Communication**
 
