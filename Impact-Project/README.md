@@ -10,17 +10,17 @@ I saw a bottleneck in this Technical Leadership Accelerator (TLA) cohort where s
 
 ## Process
 
-Since my stakeholders are fellows in this program, I talked to my peers about their thoughts and input on the lack of GitHub resources and information throughout the projects we have completed. Many fellows mentioned how they are inexperienced with GitHub, or have used the platform briefly but never had to utilize the pull request interface, which was necessary to conduct our PR review. They also explained that they would have benefitted a lot more from tutorial videos rather than written instructions on skills like how to create a repository and a new branch, or leave inline comments on a pull request. This feedback informed my initial draft of the module's structure:
+Since my stakeholders are fellows in this program, I talked to my peers about their thoughts on the lack of GitHub resources and information throughout the projects we have completed. Many fellows mentioned how they are inexperienced with GitHub, or have used the platform briefly but never had to utilize the pull request interface, which was necessary to conduct our PR review. They also explained that they would have benefitted a lot more from tutorial videos rather than written instructions on skills like how to create a repository and a new branch, or leave inline comments on a pull request. This feedback informed my initial draft of the module's structure:
 
 ![The initial draft of my Impact Project](DRAFT-1.png)
 
 I made designated placeholders for tutorial videos I planned to record about how to complete the setups on GitHub for both PR-focused projects from the corresponding module in our TLA program. I also thought about how I would introduce GitHub, and before that, the concept of version control, so I added additional pages that loosely followed the structure of other TLA projects my cohort and I had completed.
 
-I continued to build the module on Notion, taking advantage of all of its integrations, features, and block elements to embed external sites and resources as well as the videos I recorded. As I kept building, I made an effort to ensure the module closely resembled our TLA platform, using the same formatting, color palettes, and page flow whenever possible. 
+I continued to build the module on Notion, taking advantage of all of its integrations, features, and block elements to embed external sites and resources, as well as the videos I recorded. As I kept building, I made an effort to ensure the module closely resembled our TLA platform, using the same formatting, color palettes, and page flow whenever possible. 
 
 In the middle of building, I realized that setting up our TLA portfolio itself from the very first project of the program also required prior knowledge of GitHub. The provided Markdown template for the portfolio was hosted on Notion, and I remembered the tedious process of manually exporting each Notion page to a Markdown file, unzipping and renaming the files, and uploading each properly to a new repository. 
 
-Thus, I decided to create a template repository on GitHub using the Markdown template, and an additional setup resource for this module that described how to use it. I decided to switch the project, or "Applied Lab" in this module, from making a portfolio website hosted on GitHub Pages to personalizing one's GitHub profile to narrow down the scope of the module and prevent it from becoming overly complex.
+Thus, I decided to create a template repository on GitHub using the Markdown template, and an additional setup resource for this module that described how to use it. I decided to switch the project, or "Applied Lab" in this module, from making a portfolio website hosted on GitHub Pages to personalizing one's GitHub profile to narrow down the scope of the module and maintain its cohesiveness.
 
 At this point, I also organized all the pages into categories, creating the final module structure:
 
@@ -43,4 +43,4 @@ The idea is that the Notion link to the module can be pasted into the TLA platfo
 
 ## Reflection
 
-I received unanimous positive feedback from my TLA fellows, who all elaborated on how well thought out and organized the module was, as well as how they wished they had it while going through the program. They acknowledged the constraints and reasoning behind using Notion to host the project, but also mentioned how they would want to see the module on our TLA platform, with specific tutorial videos also linked to the corresponding TLA module they benefit. From this development process, I learned that the biggest parts of leading are self-driven and shaped by others, and both are equally important and valuable. 
+I received unanimous positive feedback from my TLA fellows, who all elaborated on how well thought out and organized the module was, as well as how they wished they had it while going through the program. They acknowledged the constraints and reasoning behind using Notion to host the project, but also mentioned how they would want to see the module on our TLA platform, with specific tutorial videos also linked to the corresponding TLA module they aid. From this development process, I learned that the biggest parts of leading are self-driven and shaped by others, and both are equally important and valuable. 
